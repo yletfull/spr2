@@ -1,4 +1,4 @@
-# 1. Yandex praktikum sprint 2 
+# 1. Проект “Научиться учиться”
 Andrey Korlyakov  
 
 ## 2. Актуальная версия  
